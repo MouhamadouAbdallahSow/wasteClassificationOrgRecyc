@@ -23,3 +23,6 @@ De preference creer un environnements virtuels (si non bienvenu les conflits !)
 Notes tutoriel complet installation Tensorflow : https://www.tensorflow.org/install/pip#windows-native
 
 use anaconda prompt ou anaconda PowerShell (create venv tf in venv conda )
+
+
+If you want to this here is a tuto : https://blog.streamlit.io/deep-learning-apps-for-image-processing-made-easy-a-step-by-step-guide/#step-5-try-the-app-on-your-local-machine
